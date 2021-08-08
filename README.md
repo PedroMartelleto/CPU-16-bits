@@ -1,10 +1,9 @@
-# CPU 16 bits - logisim
+# CPU 16 bits - Logisim
 
-Pedro Martelleto
-Thiago Henrique
-Guilherme Pacheco
+![cpu](Circuitos/CPU.PNG)
 
-* ULA - G
-* PDF - T
-* Sinal JMP no Contador - P
-* Unidade Controle - P
+## Authors
+
+* Pedro Martelleto
+* Thiago Henrique
+* Guilherme Pacheco
